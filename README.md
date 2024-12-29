@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cdb-funny
-- 👀 I’m interested in ...网络空间安全
-- 🌱 I’m currently learning ...网络空间安全
-- 💞️ I’m looking to collaborate on ..在这找到我感兴趣的东西.
+- 👀 I’m interested in ...game
+- 🌱 I’m currently learning ...nothing
+- 💞️ I’m looking to collaborate on ..nothing
 - 📫 How to reach me ...you never know where am i.
 
 <!---
